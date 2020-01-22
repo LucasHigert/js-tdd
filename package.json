@@ -1,20 +1,24 @@
 {
-  "name": "js-tdd",
+  "name": "js-tdd-curso",
   "version": "1.0.0",
-  "description": "Biblioteca curso de jss com TDD ",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/LucasHigert/js-tdd.git)"
+    "url": "git+https://github.com/LucasHigert/js-tdd.git"
   },
   "keywords": [
     "js",
     "tdd",
-    "library"
+    "curso"
   ],
   "author": "Lucas Higert",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasHigert/js-tdd/issues"
+  },
+  "homepage": "https://github.com/LucasHigert/js-tdd#readme"
 }
