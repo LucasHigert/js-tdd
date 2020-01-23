@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LucasHigert/js-tdd/issues"
   },
-  "homepage": "https://github.com/LucasHigert/js-tdd#readme"
+  "homepage": "https://github.com/LucasHigert/js-tdd#readme",
+  "devDependencies": {
+    "husky": "^4.2.0"
+  }
 }
